@@ -1,2 +1,2 @@
-# GDAssignment1
-Game development Assignment 1
+# GDAssignment1 full
+Game development Assignment (with no .gitignore)
